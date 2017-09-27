@@ -1,3 +1,9 @@
+// Made by Leonardo Goulart
+// IT student Bachelor at UFRN
+// implemented in C++ programming language
+// Problem four
+// the bigest palindrom number
+
 #include <algorithm>
 #include <iostream>
 #include <string>

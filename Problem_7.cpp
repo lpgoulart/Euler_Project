@@ -1,3 +1,9 @@
+// Made by Leonardo Goulart
+// IT student Bachelor at UFRN
+// implemented in C++ programming language
+// Problem seven
+// find the 10001 prime number
+
 #include <iostream>
 using namespace std;
 

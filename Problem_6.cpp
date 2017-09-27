@@ -1,3 +1,9 @@
+// Made by Leonardo Goulart
+// IT student Bachelor at UFRN
+// implemented in C++ programming language
+// Problem six
+// square of the sum minus the sum of squares
+
 #include <iostream>
 #include <cmath>
 using namespace std;

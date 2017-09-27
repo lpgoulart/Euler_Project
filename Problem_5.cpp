@@ -1,3 +1,9 @@
+// Made by Leonardo Goulart
+// IT student Bachelor at UFRN
+// implemented in C++ programming language
+// Problem five
+// find the smaller number that divide all numbers between 1 and 20
+
 #include <iostream>
 using namespace std;
 
